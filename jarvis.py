@@ -14,16 +14,16 @@ from threading import Timer
 
 # Contact list mapping names to phone numbers
 contact_list = {
-    "aastik": "+9779746637118",
-    "dad": "+9779825949045",
-    "archana": "+9779707665488",
-    "anisha": "+9779825956070",
-    "pankaj": "+9779819981054",
-    "shivam": "+919263899895"
+    "aastik": "+977",
+    "dad": "+977",
+    "archana": "+977",
+    "anisha": "+977",
+    "pankaj": "+977",
+    "shivam": "+91"
 }
 
 # Replace these with your actual API keys
-weather_api_key = "83a3949fdf634904c5f586b3b5adb105"
+weather_api_key = "your API"
 
 engine = pyttsx3.init('sapi5')  # Initialize the engine using the 'sapi5' driver
 voices = engine.getProperty('voices')  # Get available voices
