@@ -1,31 +1,31 @@
 Date: 4/8/2024
 Time: 20:16
-Phone Number: +9779746637118
+Phone Number: +977XXXXXXXX
 Message: how are you
 --------------------
 Date: 4/8/2024
 Time: 20:21
-Phone Number: +9779746637118
-Message: how r u
+Phone Number: +977xxxxxx
+Message: i am good
 --------------------
 Date: 4/8/2024
 Time: 20:56
-Phone Number: +919263899895
+Phone Number: +91xxxxxxxxx
 Message: kaise ho bhai
 --------------------
 Date: 4/8/2024
 Time: 23:15
-Phone Number: +919263899895
+Phone Number: +91XXXXXXXX
 Message: kya kar rahe ho bhai
 --------------------
 Date: 4/8/2024
 Time: 23:21
-Phone Number: +9779746637118
+Phone Number: +977XXXXXXXXX
 Message: hello hello
 --------------------
 Date: 5/8/2024
 Time: 22:20
-Phone Number: +919263899895
+Phone Number: +91XXXXXXXXX
 Message: kaise ho bhai kaise ho bhai
 --------------------
 Date: 5/8/2024
@@ -35,21 +35,21 @@ Message: how are you
 --------------------
 Date: 6/8/2024
 Time: 0:17
-Phone Number: +9779819981054
+Phone Number: +977XXXXXXXXX
 Message: hi
 --------------------
 Date: 9/8/2024
 Time: 12:11
-Phone Number: +9779746637118
-Message: hi
+Phone Number: +977XXXXXXX
+Message: good
 --------------------
 Date: 9/8/2024
 Time: 12:21
-Phone Number: +9779746637118
+Phone Number: +91XXXXXXXX
 Message: hello
 --------------------
 Date: 17/8/2024
 Time: 1:18
-Phone Number: +9779746637118
-Message: kaise ho bhai
+Phone Number: +977XXXXXXXXX
+Message: nice bro
 --------------------
